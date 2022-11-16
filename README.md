@@ -1,1 +1,1 @@
-# JS-challenge-31-100-Day
+# JS-Challenge
