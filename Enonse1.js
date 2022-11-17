@@ -1,4 +1,4 @@
-const prompt=require (`prompt-sync`)();
+const prompt=require (`prompt-sync`)();//
 let ip=prompt("Antre adres la: ")
 let total=0
 let kalkil=ip[0]
