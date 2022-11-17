@@ -1,4 +1,4 @@
-let a=1, b=1,  output=(b/a)/2
+let a=1, b=1,  output
 if(b>a){  
     output=(b/a)/2
 }else{
